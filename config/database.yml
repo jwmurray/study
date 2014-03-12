@@ -23,4 +23,5 @@ production:
   encoding: utf8
   database: study
   username: jmurray
+  password: beaver
 

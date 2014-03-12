@@ -1,4 +1,4 @@
-Study:: Application.routes.draw do 
+Study::Application.routes.draw do 
   resources :posts;
   root 'posts#index';
 end
